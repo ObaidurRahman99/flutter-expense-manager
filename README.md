@@ -1,5 +1,6 @@
 # expense_manager
 **Project Overview**
+
 Expense Manager is a Flutter mobile application designed to help users track their income and expenses efficiently. It features a modern UI, state management using Provider, and interactive elements like filtering and categorizing transactions.
 
 **Setup Instructions**
@@ -22,6 +23,7 @@ Run the app:
 flutter run
 
 **Features Implemented**
+
 Splash Screen: 
 Displays the app logo for 3 seconds before navigating to login.
 
